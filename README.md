@@ -22,8 +22,40 @@ Arsenal FC Season 18/19 - Data Analysis using SQL and Tableau
     - Tableau
     
     - Statistics
+
+**3. Project Planning & Aim Grid**
     
-**3. Problem statements**
+    1. Main purposes: What questions the stakeholders want to answer?
+        
+        - Find players who have the most affection of the team.
+        
+        - Show valuable statistics of players for stake holders (management team) to make effective decisions.
+    
+    2. Stakeholders: Who will be involved?
+        
+        - Chief executive officer
+        
+        - Technical Director (who is responsible for the strategy, development and technical direction of the Technical Directorate as stated by FIFA)
+        
+        - Manager
+        
+        - Manager assistants
+        
+        - Data & Analytics Team
+    
+    3. End Results: What do we want to achieve?
+        
+        An automated dashboard providing quick & latest statistics insights in order to support data driven decision making.
+        
+    4. Success Criteria: What will be the success criteria?
+        
+        - Dashboards uncovering statistics order insights with latest data available.
+        
+        - Manager team able to take better decision & performance in the next seasons
+        
+        - Manager team stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
+    
+**4. Problem statements**
 - Q1. Describe Team Statistics:
     - Matches played
     - Won - Draw - Loss
@@ -59,37 +91,7 @@ Arsenal FC Season 18/19 - Data Analysis using SQL and Tableau
         - Red cards
     - Statistics / Appearance (Scatter Plot chart)
  
-**4. Project Planning & Aim Grid**
-    
-    1. Main purposes: What questions the stakeholders want to answer?
-        
-        - Find players who have the most affection of the team.
-        
-        - Show valuable statistics of players for stake holders (management team) to make effective decisions.
-    
-    2. Stakeholders: Who will be involved?
-        
-        - Chief executive officer
-        
-        - Technical Director (who is responsible for the strategy, development and technical direction of the Technical Directorate as stated by FIFA)
-        
-        - Manager
-        
-        - Manager assistants
-        
-        - Data & Analytics Team
-    
-    3. End Results: What do we want to achieve?
-        
-        An automated dashboard providing quick & latest statistics insights in order to support data driven decision making.
-        
-    4. Success Criteria: What will be the success criteria?
-        
-        - Dashboards uncovering statistics order insights with latest data available.
-        
-        - Manager team able to take better decision & performance in the next seasons
-        
-        - Manager team stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
+
         
 **5. Setup Process**
     
