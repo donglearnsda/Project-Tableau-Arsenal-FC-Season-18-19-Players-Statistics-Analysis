@@ -61,13 +61,13 @@ Arsenal FC Season 18/19 - Data Analysis using SQL and Tableau
  
 **4. Project Planning & Aim Grid**
     
-    1. Main purposes: What questions the stake holders want to answer?
+    1. Main purposes: What questions the stakeholders want to answer?
         
         - Find players who have the most affection of the team.
         
         - Show valuable statistics of players for stake holders (management team) to make effective decisions.
     
-    2. Stake Holders: Who will be involved?
+    2. Stakeholders: Who will be involved?
         
         - Chief executive officer
         
