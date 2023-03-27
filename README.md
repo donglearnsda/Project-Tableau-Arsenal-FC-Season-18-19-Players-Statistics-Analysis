@@ -1,4 +1,4 @@
-# Arsenal-FC-Season-18-19-Project
+# Tableau Public-Arsenal-FC-Season-18-19-Players-Statistics-Project
 Arsenal FC Season 18/19 - Data Analysis using SQL and Tableau
 
 **1. About Project**
